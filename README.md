@@ -15,7 +15,7 @@ For older versions of the spec, check the changelog in each spec document to see
 
 ## Version Currently Under Development: 2.1
 
-Expected finalization date: August 2018
+Expected finalization date: November 2018
 
 ### Goal: Additional Configuration Options
 
@@ -62,9 +62,9 @@ The following changes are not allowed for this version:
 
 ### Revision Process for PT 2.1
 
-Proposals that fit within the general goals of the release are welcome until **TBD**.
+Proposal submission for PT 2.1 is now closed and the draft specification is being finalized for release. Proposals can still be submitted at any time, and they will be scheduled for review after the PT 2.1 specifiation has been finalized.
 
-While not required to submit a proposal for consideration and discussion, for a proposal to make it into the final PT 2.1 specification, it must have an implementation.
+While implementations are not required to submit a proposal for consideration and discussion, they are required before a proposal can be included in a released draft of the specification.
 
 ## Previous Releases
 
