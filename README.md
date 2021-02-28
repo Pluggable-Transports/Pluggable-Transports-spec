@@ -4,8 +4,8 @@ The latest completed specification is V2.2, which can be found in the releaases 
 
 This repository tracks the ongoing development of the Pluggable Transports (PT) specification. It includes:
 
-releases - All versions of the PT specification
-proposals - Any proposals yet to be implemented
+* releases - All versions of the PT specification
+* proposals - Any proposals yet to be implemented
 
 Keep an eye on the project Milestones for future plans, and Issues for the status of any proposed changes.
 
