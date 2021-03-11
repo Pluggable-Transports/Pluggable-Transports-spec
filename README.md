@@ -1,11 +1,15 @@
 # Pluggable Transports Specification
 
-The latest completed specification is V2.2, which can be found in the releaases folder, along with all previous versions. Note that V2.2 only includes updates to the Dispatcher IPC Specification, all other specifications are identical to V2.1. Any changes in PT V2.2 are backwards-compatible with V2.1 and V2.0.
+
 
 This repository tracks the ongoing development of the Pluggable Transports (PT) specification. It includes:
 
 * releases - All versions of the PT specification
 * proposals - Any proposals yet to be implemented
+
+Inside the releases/latest folder are links to the latest versions of the specification. The most recent update is V2.2, 
+
+The latest completed specification can be found in the releases folder, along with all numbered versions. The latest update was to the Dispatcher module, which is updated to V2.2. All other modules remain as their V2.1. Changes made in PT V2.2 are backwards-compatible with V2.1 and V2.0.
 
 Keep an eye on the project Milestones for future plans, and Issues for the status of any proposed changes.
 
