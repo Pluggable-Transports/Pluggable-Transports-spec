@@ -35,6 +35,10 @@ The following changes are not allowed for this version:
 
 While implementations are not required to submit a proposal for consideration and discussion, they are required before a proposal can be included in a released draft of the specification.
 
+## Proposals format
+
+Draft proposals are prepared according to the preference of the group who's leading the drafting process. Once a proposal has been approvided by the Pluggable Transport Sterring Committee, it will be published in Markdown format in this repository. If past proposals are already published in other data formats, they will be converted to Markdown. Previously existing files will not be removed from the repository to avoid breaking existing links.
+
 ## Previous Releases
 
 * [PT 2.1]
