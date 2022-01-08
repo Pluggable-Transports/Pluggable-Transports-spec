@@ -5,7 +5,9 @@ This repository tracks the ongoing development of the Pluggable Transports (PT) 
 * [releases](releases) - All versions of the PT specification
 * [proposals](proposals) - Any proposals yet to be implemented
 
-Inside the releases/latest folder are links to the latest versions of the specification. The most recent update is [V3.0](releases/PTSpecV3.0). 
+Inside the releases/latest folder are links to the latest versions of the specification.
+
+The most recent update is [V3.0](releases/PTSpecV3.0). 
 
 Keep an eye on the project Milestones for future plans, and Issues for the status of any proposed changes.
 
