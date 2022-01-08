@@ -1,17 +1,15 @@
 # Pluggable Transports Specification
 
-
-
 This repository tracks the ongoing development of the Pluggable Transports (PT) specification. It includes:
 
-* releases - All versions of the PT specification
-* proposals - Any proposals yet to be implemented
+* [releases](releases) - All versions of the PT specification
+* [proposals](proposals) - Any proposals yet to be implemented
 
-Inside the releases/latest folder are links to the latest versions of the specification. The most recent update is V2.2, 
+Inside the releases/latest folder are links to the latest versions of the specification.
 
-The latest completed specification can be found in the releases folder, along with all numbered versions. The latest update was to the Dispatcher module, which is updated to V2.2. All other modules remain as their V2.1. Changes made in PT V2.2 are backwards-compatible with V2.1 and V2.0.
+The most recent update is [V3.0](releases/PTSpecV3.0). 
 
-Keep an eye on the project Milestones for future plans, and Issues for the status of any proposed changes.
+Keep an eye on the [project Milestones](https://github.com/Pluggable-Transports/Pluggable-Transports-spec/milestones) for future plans, and [Issues](https://github.com/Pluggable-Transports/Pluggable-Transports-spec/issues) for the status of any proposed changes.
 
 For older versions of the spec, check the changelog in each spec document to see what changes were made in that version.
 
@@ -41,6 +39,8 @@ Draft proposals are prepared according to the preference of the group who's lead
 
 ## Previous Releases
 
-* [PT 2.1]
-* [PT 2.0]
-* [PT 1.0]
+* [PT 2.2.1](releases/PTSpecV2.2.1)
+* [PT 2.2](releases/PTSpecV2.2)
+* [PT 2.1](releases/PTSpecV2.1)
+* [PT 2.0](releases/PTSpecV2.0)
+* [PT 1.0](releases/PTSpecV1.0)
