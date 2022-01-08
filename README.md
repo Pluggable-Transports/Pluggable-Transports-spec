@@ -9,7 +9,7 @@ Inside the releases/latest folder are links to the latest versions of the specif
 
 The most recent update is [V3.0](releases/PTSpecV3.0). 
 
-Keep an eye on the project Milestones for future plans, and Issues for the status of any proposed changes.
+Keep an eye on the [project Milestones](https://github.com/Pluggable-Transports/Pluggable-Transports-spec/milestones) for future plans, and [Issues](https://github.com/Pluggable-Transports/Pluggable-Transports-spec/issues) for the status of any proposed changes.
 
 For older versions of the spec, check the changelog in each spec document to see what changes were made in that version.
 
