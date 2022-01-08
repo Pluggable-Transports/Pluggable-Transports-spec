@@ -37,7 +37,7 @@ While implementations are not required to submit a proposal for consideration an
 
 ## Proposals format
 
-Draft proposals are prepared according to the preference of the group who's leading the drafting process. Once a proposal has been approvided by the Pluggable Transport Sterring Committee, it will be published in Markdown format in this repository. If past proposals are already published in other data formats, they will be converted to Markdown. Previously existing files will not be removed from the repository to avoid breaking existing links.
+Draft proposals are prepared according to the preference of the group who's leading the drafting process. Once a proposal has been approvided by the Pluggable Transport Sterring Committee, it will be published in Markdown format in this repository. If past proposals are already published in other data formats, they will eventually be converted to Markdown. Previously existing files will not be removed from the repository to avoid breaking existing links.
 
 ## Previous Releases
 
