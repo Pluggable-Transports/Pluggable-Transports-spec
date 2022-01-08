@@ -35,6 +35,8 @@ While implementations are not required to submit a proposal for consideration an
 
 ## Previous Releases
 
+* [PT 2.2.1](releases/PTSpecV2.2.1)
+* [PT 2.2](releases/PTSpecV2.2)
 * [PT 2.1](releases/PTSpecV2.1)
 * [PT 2.0](releases/PTSpecV2.0)
 * [PT 1.0](releases/PTSpecV1.0)
